@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Online-Learning-Platform.Application", "Online-Learning-Platform.Application", "{66F0C626-8902-4F2D-ABA2-291A42ED3E9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Online-Learning-Platform.services", "Online-Learning-Platform.services", "{A4125D8F-1B46-4E6F-8C05-1160D2E93433}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Online-Learning-Platform.Core", "Online-Learning-Platform.Core", "{EF856454-8276-48D4-A4BF-D20C60E87014}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Online-Learning-Platform.Infrastructure", "Online-Learning-Platform.Infrastructure", "{2436F0C3-0569-4DEE-B23E-79E26FAE6B07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Online-Learning-Platform.Repository", "Online-Learning-Platform.Repository", "{3641CE55-D48C-4A6B-AF27-21B000D07037}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Online-Learning-Platform.Core", "Online-Learning-Platform.Core\Online-Learning-Platform.Core.csproj", "{8094EE8F-A57A-4D98-AC7E-4DEA6A132C91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Online-Learning-Platform.Infrastructure", "Online-Learning-Platform.Infrastructure\Online-Learning-Platform.Infrastructure.csproj", "{9C8B5256-B7FE-494B-B02A-41647DA0F65F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Online-Learning-Platform.Repository", "Online-Learning-Platform.Repository\Online-Learning-Platform.Repository.csproj", "{F99A5318-B4DB-4A19-A1DB-B3274513FA83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Online-Learning-Platform.Service", "Online-Learning-Platform.Service\Online-Learning-Platform.Service.csproj", "{86A8C88E-7B07-410A-9DDA-3604DC155D9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Online-Learning-Platform.Application", "Online-Learning-Platform.Application\Online-Learning-Platform.Application.csproj", "{ED9CD8AB-2116-41B6-8455-0A92F919E1E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Testing", "Unit Testing", "{43CBC0AD-C8A0-4D83-86BF-B0CE4C8360C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Schema", "Schema", "{5866AA20-B49B-407C-A42B-987C55612272}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{C317FDB4-4F89-42C3-AD55-7AFA26BD3151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8094EE8F-A57A-4D98-AC7E-4DEA6A132C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8094EE8F-A57A-4D98-AC7E-4DEA6A132C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8094EE8F-A57A-4D98-AC7E-4DEA6A132C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8094EE8F-A57A-4D98-AC7E-4DEA6A132C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8B5256-B7FE-494B-B02A-41647DA0F65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8B5256-B7FE-494B-B02A-41647DA0F65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8B5256-B7FE-494B-B02A-41647DA0F65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8B5256-B7FE-494B-B02A-41647DA0F65F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99A5318-B4DB-4A19-A1DB-B3274513FA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99A5318-B4DB-4A19-A1DB-B3274513FA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99A5318-B4DB-4A19-A1DB-B3274513FA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99A5318-B4DB-4A19-A1DB-B3274513FA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A8C88E-7B07-410A-9DDA-3604DC155D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A8C88E-7B07-410A-9DDA-3604DC155D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A8C88E-7B07-410A-9DDA-3604DC155D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A8C88E-7B07-410A-9DDA-3604DC155D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9CD8AB-2116-41B6-8455-0A92F919E1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9CD8AB-2116-41B6-8455-0A92F919E1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9CD8AB-2116-41B6-8455-0A92F919E1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9CD8AB-2116-41B6-8455-0A92F919E1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8094EE8F-A57A-4D98-AC7E-4DEA6A132C91} = {EF856454-8276-48D4-A4BF-D20C60E87014}
+		{9C8B5256-B7FE-494B-B02A-41647DA0F65F} = {2436F0C3-0569-4DEE-B23E-79E26FAE6B07}
+		{F99A5318-B4DB-4A19-A1DB-B3274513FA83} = {3641CE55-D48C-4A6B-AF27-21B000D07037}
+		{86A8C88E-7B07-410A-9DDA-3604DC155D9F} = {A4125D8F-1B46-4E6F-8C05-1160D2E93433}
+		{ED9CD8AB-2116-41B6-8455-0A92F919E1E9} = {66F0C626-8902-4F2D-ABA2-291A42ED3E9A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E027851E-CE4A-4043-AEF9-FEEC94A3A44F}
+	EndGlobalSection
+EndGlobal

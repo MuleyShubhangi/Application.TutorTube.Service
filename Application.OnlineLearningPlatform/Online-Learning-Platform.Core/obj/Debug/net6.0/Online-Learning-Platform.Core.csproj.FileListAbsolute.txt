@@ -1,0 +1,11 @@
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\bin\Debug\net6.0\Online-Learning-Platform.Core.deps.json
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\bin\Debug\net6.0\Online-Learning-Platform.Core.dll
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\bin\Debug\net6.0\Online-Learning-Platform.Core.pdb
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\obj\Debug\net6.0\Online-Learning-Platform.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\obj\Debug\net6.0\Online-Learning-Platform.Core.AssemblyInfoInputs.cache
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\obj\Debug\net6.0\Online-Learning-Platform.Core.AssemblyInfo.cs
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\obj\Debug\net6.0\Online-Learning-Platform.Core.csproj.CoreCompileInputs.cache
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\obj\Debug\net6.0\Online-Learning-Platform.Core.dll
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\obj\Debug\net6.0\refint\Online-Learning-Platform.Core.dll
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\obj\Debug\net6.0\Online-Learning-Platform.Core.pdb
+C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Core\obj\Debug\net6.0\ref\Online-Learning-Platform.Core.dll
