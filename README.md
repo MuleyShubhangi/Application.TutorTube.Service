@@ -1,7 +1,6 @@
 # Application.TutorTube.Service
 This is Online Learning Platform Service Backend
-# Application.TutorTube.Service1
-This is Online Learning Platform Service Backend1
+
 # Online-Learning-Platform
 Online Learning Platform 
 Online Learning Platform Features
