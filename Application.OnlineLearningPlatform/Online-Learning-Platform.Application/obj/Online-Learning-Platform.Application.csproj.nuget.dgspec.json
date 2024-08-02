@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\Online-Learning-Platform.Application.csproj": {}
+    "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\Online-Learning-Platform.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\Online-Learning-Platform.Application.csproj": {
+    "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\Online-Learning-Platform.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\Online-Learning-Platform.Application.csproj",
+        "projectUniqueName": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\Online-Learning-Platform.Application.csproj",
         "projectName": "Online-Learning-Platform.Application",
-        "projectPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\Online-Learning-Platform.Application.csproj",
+        "projectPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\Online-Learning-Platform.Application.csproj",
         "packagesPath": "C:\\Users\\shubhangi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\obj\\",
+        "outputPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubhangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj": {
-                "projectPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj"
+              "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj": {
+                "projectPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj"
               },
-              "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj": {
-                "projectPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj"
+              "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj": {
+                "projectPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj": {
+    "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj",
+        "projectUniqueName": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj",
         "projectName": "Online-Learning-Platform.Core",
-        "projectPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj",
+        "projectPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj",
         "packagesPath": "C:\\Users\\shubhangi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\obj\\",
+        "outputPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubhangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj": {
+    "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj",
+        "projectUniqueName": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj",
         "projectName": "Online-Learning-Platform.Service",
-        "projectPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj",
+        "projectPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\Online-Learning-Platform.Service.csproj",
         "packagesPath": "C:\\Users\\shubhangi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\obj\\",
+        "outputPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubhangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,8 +167,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj": {
-                "projectPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj"
+              "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj": {
+                "projectPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Core\\Online-Learning-Platform.Core.csproj"
               }
             }
           }
