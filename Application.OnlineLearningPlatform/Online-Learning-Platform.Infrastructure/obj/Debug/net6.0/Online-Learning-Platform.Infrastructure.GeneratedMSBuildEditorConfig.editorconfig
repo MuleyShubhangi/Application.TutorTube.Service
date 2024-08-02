@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Online_Learning_Platform.Infrastructure
-build_property.ProjectDir = C:\Users\shubhangi\source\repos\Application.OnlineLearningPlatform\Online-Learning-Platform.Infrastructure\
+build_property.ProjectDir = C:\Users\shubhangi\source\repos\NEW\Application.OnlineLearningPlatform\Online-Learning-Platform.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

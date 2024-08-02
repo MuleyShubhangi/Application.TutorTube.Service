@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\Online-Learning-Platform.Infrastructure.csproj": {}
+    "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\Online-Learning-Platform.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\Online-Learning-Platform.Infrastructure.csproj": {
+    "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\Online-Learning-Platform.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\Online-Learning-Platform.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\Online-Learning-Platform.Infrastructure.csproj",
         "projectName": "Online-Learning-Platform.Infrastructure",
-        "projectPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\Online-Learning-Platform.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\Online-Learning-Platform.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\shubhangi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shubhangi\\source\\repos\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\shubhangi\\source\\repos\\NEW\\Application.OnlineLearningPlatform\\Online-Learning-Platform.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shubhangi\\AppData\\Roaming\\NuGet\\NuGet.Config",
